@@ -21,5 +21,7 @@ main .conteudo{
     align-items: center;
     background-color: #f0f0f0;
     bonder: radius 20px;
+    padding:20px solid#000000;
+    border: radius 8px;
     padding:20px
 }
